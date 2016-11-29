@@ -2,12 +2,12 @@
 
 A simple exponential backoff counter in Go (Golang)
 
-[![GoDoc](https://godoc.org/github.com/jpillora/backoff?status.svg)](https://godoc.org/github.com/jpillora/backoff) [![Circle CI](https://circleci.com/gh/jpillora/backoff.svg?style=shield)](https://circleci.com/gh/jpillora/backoff)
+[![GoDoc](https://godoc.org/github.com/FreeIDMZone/backoff?status.svg)](https://godoc.org/github.com/FreeIDMZone/backoff) [![Circle CI](https://circleci.com/gh/FreeIDMZone/backoff.svg?style=shield)](https://circleci.com/gh/FreeIDMZone/backoff)
 
 ### Install
 
 ```
-$ go get -v github.com/jpillora/backoff
+$ go get -v github.com/FreeIDMZone/backoff
 ```
 
 ### Usage
@@ -112,7 +112,7 @@ Reset!
 
 #### Documentation
 
-https://godoc.org/github.com/jpillora/backoff
+https://godoc.org/github.com/FreeIDMZone/backoff
 
 #### Credits
 
